@@ -1,7 +1,7 @@
 package com.amikhailov.t7.treadsPrograms;
 
-import t6.BufferCopyFile;
-import t6.FileCopyChannel;
+import com.amikhailov.t6.BufferCopyFile;
+import com.amikhailov.t6.FileCopyChannel;
 
 /**
  * Created by X501A on 19.08.2017.

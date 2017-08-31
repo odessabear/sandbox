@@ -1,7 +1,5 @@
 package com.amikhailov.t5.sortedSet;
 
-import org.jetbrains.annotations.NotNull;
-
 /**
  * Created by X501A on 15.07.2017.
  */
@@ -53,7 +51,7 @@ public class Student implements Comparable<Student>{
     }
 
     @Override
-    public int compareTo(@NotNull Student o) {
+    public int compareTo(Student o) {
         Integer age1 = this.age;
         Integer age2 = o.getAge();
         return age1.compareTo(age2);

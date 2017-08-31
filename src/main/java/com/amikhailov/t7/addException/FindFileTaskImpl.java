@@ -1,8 +1,8 @@
 package com.amikhailov.t7.addException;
 
-import t7.treadsPrograms.AbstractTask;
-import t7.treadsPrograms.FindFilesTask;
-import t7.treadsPrograms.TaskExecutionFailedException;
+import com.amikhailov.t7.treadsPrograms.AbstractTask;
+import com.amikhailov.t7.treadsPrograms.FindFilesTask;
+import com.amikhailov.t7.treadsPrograms.TaskExecutionFailedException;
 
 import java.io.FileNotFoundException;
 import java.io.PrintStream;

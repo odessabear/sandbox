@@ -14,8 +14,8 @@ public interface FileCopyUtils {
 	 *
 	 * @param source путь к исходному файлу
 	 * @param destination путь к целевому файлу
-	 * @throws t6.FileAlreadyExistsException если целевой файл уже существует
+	 * @throws FileAlreadyExistsException если целевой файл уже существует
 	 * @throws FileCopyFailedException если произошла какая-нибудь ошибка при копировании файлов, в cause следует указать источник ошибки
 	 */
-	void copyFile(String source, String destination) throws FileCopyFailedException, t6.FileAlreadyExistsException;
+	void copyFile(String source, String destination) throws FileCopyFailedException, FileAlreadyExistsException;
 }

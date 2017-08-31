@@ -1,7 +1,6 @@
 package com.amikhailov.t7.treadsPrograms;
 
-
-import t6.FileCopyUtils;
+import com.amikhailov.t6.FileCopyUtils;
 
 /**
  * Задача копирования файла в отдельном потоке

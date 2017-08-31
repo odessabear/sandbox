@@ -1,6 +1,6 @@
 package com.amikhailov.t7.treadsPrograms;
 
-import t6.FileCopyUtils;
+import com.amikhailov.t6.FileCopyUtils;
 
 /**
  * Created by X501A on 15.08.2017.

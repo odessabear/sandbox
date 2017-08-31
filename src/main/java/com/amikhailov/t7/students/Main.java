@@ -1,6 +1,7 @@
 package com.amikhailov.t7.students;
 
-import t7.treadsPrograms.FindFilesTaskImpl;
+
+import com.amikhailov.t7.treadsPrograms.FindFilesTaskImpl;
 
 import java.io.FileNotFoundException;
 

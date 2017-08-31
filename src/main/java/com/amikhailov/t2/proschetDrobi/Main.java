@@ -1,10 +1,9 @@
 package com.amikhailov.t2.proschetDrobi;
 
-import t2.Drob;
-import t2.FractionNumberOperationImpl;
+import com.amikhailov.t2.Drob;
+import com.amikhailov.t2.FractionNumberOperationImpl;
 
-import static t2.proschetDrobi.CorrectUtils.*;
-import static t2.proschetDrobi.CorrectUtils.chekInputMethod;
+import static com.amikhailov.t2.proschetDrobi.CorrectUtils.chekInputMethod;
 
 /**
  * Created by X501A on 13.07.2017.
